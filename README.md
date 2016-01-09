@@ -1,0 +1,2 @@
+# SuperCoolApp
+MyFirstShittyApp
